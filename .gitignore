@@ -1,0 +1,4 @@
+servlet_client/.idea/*
+servlet_client/target/*
+testing_servlet/.idea/*
+testing_servlet/target/*
